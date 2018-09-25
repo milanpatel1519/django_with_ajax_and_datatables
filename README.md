@@ -1,0 +1,1 @@
+# django_with_ajax_and_datatables
